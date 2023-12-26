@@ -5,6 +5,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -30,6 +31,9 @@ Móveis Planejados é um projeto desenvolvido para uma apresentação de uma loj
 
 - [Acesse o projeto finalizado, online](https://silverioesantos.github.io/MoveisPlanejados/)
 
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/DgjoIsTalerFNzGvCzIVdp/Projeto-Moveis-Planejados?type=design&t=HWTfUIcZupbDvR5T-6). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
